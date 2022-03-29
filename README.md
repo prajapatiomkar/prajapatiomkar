@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://source.android.com/setup/images/Android_symbol_green_RGB.png)
 
 <!--
 **prajapatiomkar/prajapatiomkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
