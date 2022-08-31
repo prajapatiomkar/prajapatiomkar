@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Javascript
+🌱 I’m currently learning Web Development MERN stack 🍔<br>💬 Ask me about Javascript
 
 
 # 💻 Tech Stack:
