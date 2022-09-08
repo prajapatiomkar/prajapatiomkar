@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajapatiomkar" alt="prajapatiomkar" /></a> </p>
 <p align="left"> <a href="https://twitter.com/omkartwts" target="blank"><img src="https://img.shields.io/twitter/follow/omkartwts?logo=twitter&style=for-the-badge" alt="omkartwts" /></a> </p>
 - 🌱 I’m currently learning **MERN**
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help in **Web Development**
 - 💬 Ask me about **Javascript & Java**
 - 📫 How to reach me **prajapatiomkar01@gmail.com**
 - ⚡ Fun fact **I hunt Bug,In Existing Project**
