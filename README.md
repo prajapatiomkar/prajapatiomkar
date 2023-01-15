@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 I'm PRAJAPATI OMKAR <br> 🔭 I'm currently working on GoLang  <br>🥷 I'm looking to collaborate on Github<br>🤝 I'm looking for help understanding Backend<br>🌱 I'm currently learning Full Stack Development<br>🗨️ Ask me about Computer Concepts/Technology<br>
+👋 I'm Prajapati Omkar <br> 🔭 I'm currently working on GoLang  <br>🥷 I'm looking to collaborate on Github<br>🤝 I'm looking for help understanding Backend<br>🌱 I'm currently learning Full Stack Development<br>🗨️ Ask me about Computer Concepts/Technology<br>
 
 
 ## 🌐 Socials:
